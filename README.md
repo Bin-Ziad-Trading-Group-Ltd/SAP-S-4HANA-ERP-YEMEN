@@ -1,4 +1,19 @@
 # 🏢 MeDo ERP - النظام المحاسبي والإداري السحابي المتكامل
+# 🏢 MeDo ERP - Integrated Cloud Accounting & Administrative System
+
+---
+
+## 🌐 اللغة / Language
+- [🇸🇦 العربية](#العربية)
+- [🇬🇧 English](#english)
+
+---
+
+<div dir="rtl">
+
+# 🇸🇦 العربية
+
+## 📖 نبذة عن المشروع
 
 **MeDo ERP** هو نظام محاسبي وإداري سحابي متكامل من الجيل القادم (Next-Gen Cloud ERP)، صُنع في اليمن ليكون البديل الوطني للأنظمة العالمية المعقدة والمكلفة. يجمع النظام بين الصرامة المحاسبية والامتثال لمعايير التقارير المالية الدولية (IFRS)، مع واجهات مستخدم متطورة مستوحاة من منظومة SAP Fiori، ومدعوم بمحرك ذكاء اصطناعي مالي (AI Financial Advisor) يحلل الربحية، يكتشف الاختلاس، ويقدم توصيات فورية لاتخاذ القرارات الاستراتيجية.
 
@@ -108,11 +123,13 @@
 
 ---
 
-## 📝 الترخيص
+## 📝 الترخيص والحقوق
 
-جميع الحقوق محفوظة © 2026  
-**ميدو تك للحلول البرمجية — MeDo Tech for Software Solutions**  
-صنعاء - اليمن
+**جميع الحقوق محفوظة © 2026**  
+**ميدو تك وبن زياد المتحدة**  
+**MeDo Tech & Bin Ziad United**  
+
+هذا النظام والدليل التسويقي مملوكان بالكامل لشركة **ميدو تك وبن زياد المتحدة**، ولا يسمح بنسخ أو توزيع أو إعادة نشر أي جزء من هذا المحتوى دون إذن كتابي مسبق من الشركة.
 
 ---
 
@@ -122,3 +139,143 @@
 لا تتردد في التواصل معنا لأي استفسار أو للحصول على عرض توضيحي حي.
 
 🚀 **MeDo ERP - مستقبل الإدارة المالية في اليمن والمنطقة**
+
+---
+
+</div>
+
+---
+
+<div dir="ltr">
+
+# 🇬🇧 English
+
+## 📖 Project Overview
+
+**MeDo ERP** is a next-generation, integrated cloud-based accounting and administrative system (Next-Gen Cloud ERP), built in Yemen to serve as a national alternative to complex and expensive global systems. It combines accounting rigor and compliance with International Financial Reporting Standards (IFRS) with advanced user interfaces inspired by the SAP Fiori ecosystem, powered by an AI Financial Advisor that analyzes profitability, detects fraud, and provides real-time recommendations for strategic decision-making.
+
+---
+
+## 🎯 Vision
+
+To empower Yemeni and Arab organizations and companies to manage their business, branches, and warehouses with full professionalism through an intelligent cloud platform, at affordable prices, with global standards, and with complete flexibility to understand the local and regional reality.
+
+---
+
+## ✨ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| ☁️ **Fully Cloud-Based** | Works from any browser, mobile, or tablet without installation, with instant synchronization between branches. |
+| 🏬 **Unlimited Branches & Warehouses** | Manage an unlimited number of branches and warehouses with consolidated and segmented financial reports. |
+| 🧠 **AI Financial Advisor** | Real-time profitability analysis, fraud detection, and instant investment recommendations. |
+| 💱 **Yemeni Currency Exchange** | Automatic engine for settling currency differences between (Sana'a, Aden, Saudi Riyal, US Dollar). |
+| 📱 **E-Wallets** | Full support for Yemeni e-wallets (Joaly, Jeeb, Floosak, One Cash, Cash, M-Floos, etc.). |
+| 📤 **Instant WhatsApp Sharing** | Send invoices, vouchers, and account statements with one click. |
+| 📊 **Comprehensive Financial Reports** | Balance Sheet, Income Statement, Cash Flow Statement (IAS 7), and Trial Balance. |
+| 🎨 **SAP Fiori Interfaces** | Premium themes with a complete studio for customizing colors, fonts, and table styles. |
+| 🔒 **Enterprise Security** | Password encryption (Salted SHA-256), audit trail, and precise permissions (RBAC). |
+| 💾 **Instant Backup** | Save to local files and external drives with one click, with automatic multi-site cloud backups. |
+| 🌐 **Multiple Databases** | Support for Alibaba, Huawei, Google Cloud, and local databases. |
+
+---
+
+## 🏢 Integrated Modules
+
+| Module | Description |
+|--------|-------------|
+| 🧾 **Sales & Customers** | Fast POS, wholesale/retail invoices, credit limits, and account statements. |
+| 📦 **Purchases & Suppliers** | Purchase orders, invoices, and supplier payment tracking. |
+| 🏪 **Warehouses & Inventory** | Periodic inventory, branch transfers, and reorder/expiry alerts. |
+| 💰 **Treasury & Wallets** | Receipt and payment vouchers, bank accounts, and daily e-wallet reconciliation. |
+| 📊 **General Ledger** | Tree-structured chart of accounts, daily entries, IFRS-compliant reporting. |
+| 👥 **Human Resources** | Employee records, payroll, allowances, and deductions. |
+| 🎨 **Theme Studio** | Customize colors, fonts, and interface according to your brand identity. |
+| 🤖 **AI Advisor** | Real-time financial analysis and answers to management queries in Arabic. |
+
+---
+
+## ⚖️ Comparison with Traditional Systems
+
+| Aspect | Traditional Systems | MeDo ERP |
+|--------|---------------------|----------|
+| **Architecture** | Heavy desktop software requiring servers | Fully cloud-native |
+| **Branches & Sync** | Complex, slow, requires manual intervention | Unlimited branches, instant sync |
+| **Artificial Intelligence** | Not available | Integrated AI Financial Advisor |
+| **Currency Exchange** | Complex manual processing | Automatic multi-currency settlement engine |
+| **E-Wallets** | Not supported | Native and dedicated integration |
+| **Document Sharing** | Printing or manual PDF export | Instant WhatsApp sharing |
+| **Operational Cost** | High (servers, maintenance) | Low (zero infrastructure) |
+
+---
+
+## 💎 Return on Investment (ROI)
+
+| Area | Expected Improvement |
+|------|----------------------|
+| **IT Costs** | 60% to 75% savings |
+| **Expansion Speed** | Launch new branch in 5 minutes |
+| **Receivables Collection** | 40% improvement |
+| **Inventory Accuracy** | 85% reduction in losses |
+| **Financial Closing Speed** | Hours instead of weeks |
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| **React.js + Vite** | Frontend |
+| **TypeScript** | Core language (99.6%) |
+| **Node.js + Express** | Backend |
+| **PostgreSQL** | Primary database |
+| **Huawei Cloud / Alibaba Cloud / Google Cloud** | Multi-cloud support |
+| **Gemini API** | AI Financial Advisor |
+| **Tailwind CSS** | Styling and design |
+
+---
+
+## 🎯 Target Audience
+
+- 🏢 Commercial companies and business groups.
+- 🛒 Wholesale and retail stores.
+- 📦 Import and distribution companies.
+- 🏦 Exchange offices and financial services.
+- 🏥 Hospitals and clinics.
+- 🎓 Private schools and universities.
+- 🍽️ Restaurants and cafes.
+- 💊 Pharmacies.
+
+---
+
+## 📞 Contact Us
+
+| Channel | Details |
+|---------|---------|
+| **Founder & Manager** | Bader Ayyash Mohammed (Accountant & Auditor) |
+| **Email** | [bdr.zyad@yandex.com](mailto:bdr.zyad@yandex.com) |
+| **Phone** | [+0967715779976](tel:+0967715779976) |
+| **WhatsApp** | [Click to chat](https://wa.me/967715779976) |
+| **Address** | Khamer - Al-Kadwi - Al-Qalami Building, Ground Floor |
+
+---
+
+## 📝 License & Rights
+
+**All Rights Reserved © 2026**  
+**MeDo Tech & Bin Ziad United**  
+
+This system and marketing guide are fully owned by **MeDo Tech & Bin Ziad United**. No part of this content may be copied, distributed, or republished without prior written permission from the company.
+
+---
+
+## 🌟 Thank You
+
+We hope this project contributes to building Yemeni digital sovereignty in the field of financial and administrative software.  
+Feel free to reach out for any inquiries or to schedule a live demo.
+
+🚀 **MeDo ERP - The Future of Financial Management in Yemen and the Region**
+
+---
+
+</div>
